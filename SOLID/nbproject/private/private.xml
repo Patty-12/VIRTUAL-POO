@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/singleResponsability/reporte.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/interfaceSegregationPrinciple/usuarioServicio.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/dependencyInversionPrinciple/csvGenerador.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/openClosed/permisioServicio.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/dependencyInversionPrinciple/reporteGenerador.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/liskovSubstitutionPrinciple/perro.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/openClosed/usuarioServicio.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/openClosed/superAdmin.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/openClosed/permiso.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/dependencyInversionPrinciple/generador.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/dependencyInversionPrinciple/main.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/singleResponsability/empleadoServicio.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/liskovSubstitutionPrinciple/main.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/interfaceSegregationPrinciple/usuarioServicioImpl.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/singleResponsability/salarioServicio.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/liskovSubstitutionPrinciple/gato.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/liskovSubstitutionPrinciple/animal.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/singleResponsability/empleado.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/interfaceSegregationPrinciple/usuario.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/interfaceSegregationPrinciple/crudUsuario.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/openClosed/rol.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/dependencyInversionPrinciple/pdfGenerador.java</file>
+            <file>file:/C:/Users/Yagami/Documents/NetBeansProjects/SOLID/src/interfaceSegregationPrinciple/sesionServicio.java</file>
+        </group>
+    </open-files>
+</project-private>
